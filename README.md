@@ -1,7 +1,7 @@
 라이브러리
 pyTorch, pickle, matplotlib
 
-모델 구조
+모델 구조\n
 레이어: 3
 입력: 784(28x28)
 가중치 초기화: He 초기화
